@@ -1,0 +1,2081 @@
+09/08/18 11:35
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (5 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (20 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob6()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/11/18 11:24
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+'Book Grocery store' matches but should not
+'This is a Book store' matches but should not
+'Grocery stores rock' matches but should not
+'Book storesupplier' matches but should not
+' Book store' matches but should not
+Score += 3
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (20 points):
+incorrect email
+	Correct response: ipsum@dapibusligulaAliquam.fake.com
+	Student response: ipsum@dapibusligulaAliquam.fake
+incorrect email
+	Correct response: sodales.at.velit@natoquepenatibuset.fake.com
+	Student response: sodales.at.velit@natoquepenatibuset.fake
+incorrect email
+	Correct response: Curabitur.consequat@In.fake.com
+	Student response: Curabitur.consequat@In.fake
+incorrect email
+	Correct response: dui.nec_04@semperpretiumneque.superfake.com
+	Student response: dui.nec_04@semperpretiumneque.superfake
+incorrect email
+	Correct response: erat.volutpat.Nulla_04@tinciduntadipiscing.fake.com
+	Student response: erat.volutpat.Nulla_04@tinciduntadipiscing.fake
+incorrect email
+	Correct response: non.quam.Pellentesque@fringillaestMauris.fake.com
+	Student response: non.quam.Pellentesque@fringillaestMauris.fake
+incorrect email
+	Correct response: nunc@non.fake.com
+	Student response: nunc@non.fake
+incorrect email
+	Correct response: sed@Nullamfeugiatplacerat.fake.com
+	Student response: sed@Nullamfeugiatplacerat.fake
+incorrect email
+	Correct response: montes.nascetur51@Sedeu.superfake.com
+	Student response: montes.nascetur51@Sedeu.superfake
+incorrect email
+	Correct response: est.mollis.non@Namacnulla.fake.com
+	Student response: est.mollis.non@Namacnulla.fake
+incorrect email
+	Correct response: lorem.vitae@Cum.fake.com
+	Student response: lorem.vitae@Cum.fake
+incorrect email
+	Correct response: Praesent@Cras.fake.com
+	Student response: Praesent@Cras.fake
+incorrect email
+	Correct response: mus@egestas.fake.com
+	Student response: mus@egestas.fake
+incorrect email
+	Correct response: felis99@dui.fake.com
+	Student response: felis99@dui.fake
+incorrect email
+	Correct response: Nunc.mauris23@nuncestmollis.fake.com
+	Student response: Nunc.mauris23@nuncestmollis.fake
+incorrect email
+	Correct response: urna.Vivamus.molestie@mauriselitdictum.fake.com
+	Student response: urna.Vivamus.molestie@mauriselitdictum.fake
+incorrect email
+	Correct response: Mauris@ipsumcursus.fake.com
+	Student response: Mauris@ipsumcursus.fake
+incorrect email
+	Correct response: volutpat@lobortisquis.fake.com
+	Student response: volutpat@lobortisquis.fake
+incorrect email
+	Correct response: turpis46@quamquisdiam.fake.com
+	Student response: turpis46@quamquisdiam.fake
+incorrect email
+	Correct response: pretium.et@blandit.superfake.com
+	Student response: pretium.et@blandit.superfake
+incorrect email
+	Correct response: luctus@sagittis.fake.com
+	Student response: luctus@sagittis.fake
+incorrect email
+	Correct response: libero@nislQuisquefringilla.superfake.com
+	Student response: libero@nislQuisquefringilla.superfake
+incorrect email
+	Correct response: vitae@anteVivamus.fake.com
+	Student response: vitae@anteVivamus.fake
+incorrect email
+	Correct response: libero.mauris.aliquam@etcommodoat.fake.com
+	Student response: libero.mauris.aliquam@etcommodoat.fake
+incorrect email
+	Correct response: Aenean.eget@nisl.fake.com
+	Student response: Aenean.eget@nisl.fake
+incorrect email
+	Correct response: convallis@enimcondimentumeget.superfake.com
+	Student response: convallis@enimcondimentumeget.superfake
+incorrect email
+	Correct response: Integer@vel.superfake.com
+	Student response: Integer@vel.superfake
+incorrect email
+	Correct response: sapien.gravida.non@a.fake.com
+	Student response: sapien.gravida.non@a.fake
+incorrect email
+	Correct response: Nunc.lectus@Praesentinterdumligula.superfake.com
+	Student response: Nunc.lectus@Praesentinterdumligula.superfake
+incorrect email
+	Correct response: Suspendisse@turpis.fake.com
+	Student response: Suspendisse@turpis.fake
+incorrect email
+	Correct response: amet@sagittisfelisDonec.superfake.com
+	Student response: amet@sagittisfelisDonec.superfake
+incorrect email
+	Correct response: vel.sapien@odiovel.superfake.com
+	Student response: vel.sapien@odiovel.superfake
+incorrect email
+	Correct response: et.malesuada58@sed.fake.com
+	Student response: et.malesuada58@sed.fake
+incorrect email
+	Correct response: Phasellus@commodohendreritDonec.fake.com
+	Student response: Phasellus@commodohendreritDonec.fake
+incorrect email
+	Correct response: Duis74@primis.fake.com
+	Student response: Duis74@primis.fake
+incorrect email
+	Correct response: fermentum56@lacinia.fake.com
+	Student response: fermentum56@lacinia.fake
+incorrect email
+	Correct response: molestie.tellus@ullamcorpernisl.fake.com
+	Student response: molestie.tellus@ullamcorpernisl.fake
+incorrect email
+	Correct response: vehicula.Pellentesque.tincidunt@luctusvulputatenisi.fake.com
+	Student response: vehicula.Pellentesque.tincidunt@luctusvulputatenisi.fake
+incorrect email
+	Correct response: et.ipsum.cursus@nibhsit.superfake.com
+	Student response: et.ipsum.cursus@nibhsit.superfake
+incorrect email
+	Correct response: urna@dapibusrutrum.fake.com
+	Student response: urna@dapibusrutrum.fake
+incorrect email
+	Correct response: ut73@est.fake.com
+	Student response: ut73@est.fake
+incorrect email
+	Correct response: eget.massa.Suspendisse@NullafacilisisSuspendisse.fake.com
+	Student response: eget.massa.Suspendisse@NullafacilisisSuspendisse.fake
+incorrect email
+	Correct response: pretium@etrisus.fake.com
+	Student response: pretium@etrisus.fake
+incorrect email
+	Correct response: mollis_54@tinciduntdui.fake.com
+	Student response: mollis_54@tinciduntdui.fake
+incorrect email
+	Correct response: est@euerosNam.fake.com
+	Student response: est@euerosNam.fake
+incorrect email
+	Correct response: tincidunt.nunc@nec.fake.com
+	Student response: tincidunt.nunc@nec.fake
+incorrect email
+	Correct response: urna.nec.luctus@lobortisrisusIn.fake.com
+	Student response: urna.nec.luctus@lobortisrisusIn.fake
+incorrect email
+	Correct response: auctor.quis@ultricesVivamus.fake.com
+	Student response: auctor.quis@ultricesVivamus.fake
+incorrect email
+	Correct response: ac@ipsumdolor.fake.com
+	Student response: ac@ipsumdolor.fake
+incorrect email
+	Correct response: consectetuer.adipiscing.elit@orci.fake.com
+	Student response: consectetuer.adipiscing.elit@orci.fake
+incorrect email
+	Correct response: fames@Aliquam.superfake.com
+	Student response: fames@Aliquam.superfake
+incorrect email
+	Correct response: sit@vulputateposuerevulputate.superfake.com
+	Student response: sit@vulputateposuerevulputate.superfake
+incorrect email
+	Correct response: lorem.lorem.luctus@IntegermollisInteger.fake.com
+	Student response: lorem.lorem.luctus@IntegermollisInteger.fake
+incorrect email
+	Correct response: eu_81@dolorFuscefeugiat.superfake.com
+	Student response: eu_81@dolorFuscefeugiat.superfake
+incorrect email
+	Correct response: tellus.Suspendisse39@posuere.fake.com
+	Student response: tellus.Suspendisse39@posuere.fake
+incorrect email
+	Correct response: non.arcu@fringillacursuspurus.fake.com
+	Student response: non.arcu@fringillacursuspurus.fake
+incorrect email
+	Correct response: porttitor.eros@necmauris.fake.com
+	Student response: porttitor.eros@necmauris.fake
+incorrect email
+	Correct response: ac.tellus@ipsumcursusvestibulum.superfake.com
+	Student response: ac.tellus@ipsumcursusvestibulum.superfake
+incorrect email
+	Correct response: mollis@quisdiamluctus.fake.com
+	Student response: mollis@quisdiamluctus.fake
+incorrect email
+	Correct response: consectetuer.rhoncus@tinciduntorciquis.superfake.com
+	Student response: consectetuer.rhoncus@tinciduntorciquis.superfake
+incorrect email
+	Correct response: Curabitur.sed@Seddiamlorem.superfake.com
+	Student response: Curabitur.sed@Seddiamlorem.superfake
+incorrect email
+	Correct response: ipsum.Curabitur.consequat@euismod.fake.com
+	Student response: ipsum.Curabitur.consequat@euismod.fake
+incorrect email
+	Correct response: ut.dolor@Nullam.fake.com
+	Student response: ut.dolor@Nullam.fake
+incorrect email
+	Correct response: a.mi_34@sagittisDuisgravida.superfake.com
+	Student response: a.mi_34@sagittisDuisgravida.superfake
+incorrect email
+	Correct response: sagittis@Etiam.superfake.com
+	Student response: sagittis@Etiam.superfake
+incorrect email
+	Correct response: Vivamus.molestie@erosNamconsequat.superfake.com
+	Student response: Vivamus.molestie@erosNamconsequat.superfake
+incorrect email
+	Correct response: eu.lacus@sit.fake.com
+	Student response: eu.lacus@sit.fake
+incorrect email
+	Correct response: Donec72@Aliquameratvolutpat.superfake.com
+	Student response: Donec72@Aliquameratvolutpat.superfake
+incorrect email
+	Correct response: Morbi.metus@ipsum.superfake.com
+	Student response: Morbi.metus@ipsum.superfake
+incorrect email
+	Correct response: libero@montes.superfake.com
+	Student response: libero@montes.superfake
+incorrect email
+	Correct response: nulla.Integer.urna@necligula.superfake.com
+	Student response: nulla.Integer.urna@necligula.superfake
+incorrect email
+	Correct response: sit.amet@elementumlorem.fake.com
+	Student response: sit.amet@elementumlorem.fake
+incorrect email
+	Correct response: sit.amet@pretium.superfake.com
+	Student response: sit.amet@pretium.superfake
+incorrect email
+	Correct response: Curabitur@noncursusnon.superfake.com
+	Student response: Curabitur@noncursusnon.superfake
+incorrect email
+	Correct response: pede@mauriselitdictum.superfake.com
+	Student response: pede@mauriselitdictum.superfake
+incorrect email
+	Correct response: mauris.Morbi_42@Morbi.superfake.com
+	Student response: mauris.Morbi_42@Morbi.superfake
+incorrect email
+	Correct response: Nunc@eget.fake.com
+	Student response: Nunc@eget.fake
+incorrect email
+	Correct response: arcu.imperdiet.ullamcorper@purus.fake.com
+	Student response: arcu.imperdiet.ullamcorper@purus.fake
+incorrect email
+	Correct response: montes@nonleoVivamus.fake.com
+	Student response: montes@nonleoVivamus.fake
+incorrect email
+	Correct response: vehicula.et.rutrum@sed.fake.com
+	Student response: vehicula.et.rutrum@sed.fake
+incorrect email
+	Correct response: vitae.sodales@Morbiquisurna.superfake.com
+	Student response: vitae.sodales@Morbiquisurna.superfake
+incorrect email
+	Correct response: nonummy@acmi.superfake.com
+	Student response: nonummy@acmi.superfake
+incorrect email
+	Correct response: Mauris.nulla@enimEtiam.superfake.com
+	Student response: Mauris.nulla@enimEtiam.superfake
+incorrect email
+	Correct response: sit.amet@eleifendegestasSed.fake.com
+	Student response: sit.amet@eleifendegestasSed.fake
+incorrect email
+	Correct response: cursus@euodioPhasellus.superfake.com
+	Student response: cursus@euodioPhasellus.superfake
+incorrect email
+	Correct response: quis@Suspendisseeleifend.superfake.com
+	Student response: quis@Suspendisseeleifend.superfake
+incorrect email
+	Correct response: vitae05@miAliquamgravida.superfake.com
+	Student response: vitae05@miAliquamgravida.superfake
+incorrect email
+	Correct response: Etiam.bibendum44@Sed.fake.com
+	Student response: Etiam.bibendum44@Sed.fake
+incorrect email
+	Correct response: nec@quislectus.fake.com
+	Student response: nec@quislectus.fake
+incorrect email
+	Correct response: enim19@euismodurnaNullam.superfake.com
+	Student response: enim19@euismodurnaNullam.superfake
+incorrect email
+	Correct response: ultrices.posuere_57@tellusSuspendissesed.superfake.com
+	Student response: ultrices.posuere_57@tellusSuspendissesed.superfake
+incorrect email
+	Correct response: non@DonecegestasAliquam.superfake.com
+	Student response: non@DonecegestasAliquam.superfake
+incorrect email
+	Correct response: Cum.sociis@ligulaAeneangravida.fake.com
+	Student response: Cum.sociis@ligulaAeneangravida.fake
+incorrect email
+	Correct response: enim.Suspendisse_83@sedturpis.superfake.com
+	Student response: enim.Suspendisse_83@sedturpis.superfake
+incorrect email
+	Correct response: urna.Ut.tincidunt@lobortisauguescelerisque.superfake.com
+	Student response: urna.Ut.tincidunt@lobortisauguescelerisque.superfake
+incorrect email
+	Correct response: aliquet@ametultricies.fake.com
+	Student response: aliquet@ametultricies.fake
+incorrect email
+	Correct response: ac.risus.Morbi_45@semper.fake.com
+	Student response: ac.risus.Morbi_45@semper.fake
+incorrect email
+	Correct response: arcu@necante.fake.com
+	Student response: arcu@necante.fake
+incorrect email
+	Correct response: vehicula.risus.Nulla@id.fake.com
+	Student response: vehicula.risus.Nulla@id.fake
+incorrect email
+	Correct response: Cras.vulputate.velit@magnisdis.superfake.com
+	Student response: Cras.vulputate.velit@magnisdis.superfake
+incorrect email
+	Correct response: urna.et@loremloremluctus.superfake.com
+	Student response: urna.et@loremloremluctus.superfake
+incorrect email
+	Correct response: et.magna@molestietellus.superfake.com
+	Student response: et.magna@molestietellus.superfake
+incorrect email
+	Correct response: ipsum@netus.fake.com
+	Student response: ipsum@netus.fake
+incorrect email
+	Correct response: dolor.nonummy.ac@fringilla.superfake.com
+	Student response: dolor.nonummy.ac@fringilla.superfake
+incorrect email
+	Correct response: mi.felis.adipiscing_45@incursuset.fake.com
+	Student response: mi.felis.adipiscing_45@incursuset.fake
+incorrect email
+	Correct response: Donec.egestas.Aliquam@velarcu.superfake.com
+	Student response: Donec.egestas.Aliquam@velarcu.superfake
+incorrect email
+	Correct response: sem@sed.fake.com
+	Student response: sem@sed.fake
+incorrect email
+	Correct response: commodo@cursusaenim.superfake.com
+	Student response: commodo@cursusaenim.superfake
+incorrect email
+	Correct response: tristique.senectus.et@pretium.fake.com
+	Student response: tristique.senectus.et@pretium.fake
+incorrect email
+	Correct response: Donec_83@sitamet.fake.com
+	Student response: Donec_83@sitamet.fake
+incorrect email
+	Correct response: Nam@sitamet.superfake.com
+	Student response: Nam@sitamet.superfake
+incorrect email
+	Correct response: risus.varius.orci94@hendrerit.superfake.com
+	Student response: risus.varius.orci94@hendrerit.superfake
+incorrect email
+	Correct response: Aliquam@egetvenenatisa.fake.com
+	Student response: Aliquam@egetvenenatisa.fake
+incorrect email
+	Correct response: amet25@sitamet.fake.com
+	Student response: amet25@sitamet.fake
+incorrect email
+	Correct response: neque@diamat.fake.com
+	Student response: neque@diamat.fake
+incorrect email
+	Correct response: felis.eget@tincidunt.superfake.com
+	Student response: felis.eget@tincidunt.superfake
+incorrect email
+	Correct response: dolor.quam@Nulla.fake.com
+	Student response: dolor.quam@Nulla.fake
+incorrect email
+	Correct response: ac.turpis@nuncsit.superfake.com
+	Student response: ac.turpis@nuncsit.superfake
+incorrect email
+	Correct response: malesuada.fringilla.est@ametfaucibusut.superfake.com
+	Student response: malesuada.fringilla.est@ametfaucibusut.superfake
+incorrect email
+	Correct response: enim.Suspendisse.aliquet@semegetmassa.superfake.com
+	Student response: enim.Suspendisse.aliquet@semegetmassa.superfake
+incorrect email
+	Correct response: eleifend@eueleifendnec.fake.com
+	Student response: eleifend@eueleifendnec.fake
+incorrect email
+	Correct response: laoreet.libero.et@ornare.fake.com
+	Student response: laoreet.libero.et@ornare.fake
+incorrect email
+	Correct response: fringilla@Namligulaelit.fake.com
+	Student response: fringilla@Namligulaelit.fake
+incorrect email
+	Correct response: a@nisiAenean.fake.com
+	Student response: a@nisiAenean.fake
+incorrect email
+	Correct response: arcu@vitae.superfake.com
+	Student response: arcu@vitae.superfake
+incorrect email
+	Correct response: elementum@quis.superfake.com
+	Student response: elementum@quis.superfake
+incorrect email
+	Correct response: Aenean@mauris.fake.com
+	Student response: Aenean@mauris.fake
+incorrect email
+	Correct response: dictum.eleifend.nunc@facilisislorem.superfake.com
+	Student response: dictum.eleifend.nunc@facilisislorem.superfake
+incorrect email
+	Correct response: lobortis.risus.In@loremacrisus.fake.com
+	Student response: lobortis.risus.In@loremacrisus.fake
+incorrect email
+	Correct response: ullamcorper.eu.euismod_72@erosNamconsequat.superfake.com
+	Student response: ullamcorper.eu.euismod_72@erosNamconsequat.superfake
+incorrect email
+	Correct response: arcu.Vivamus@veliteusem.superfake.com
+	Student response: arcu.Vivamus@veliteusem.superfake
+incorrect email
+	Correct response: erat@morbitristique.superfake.com
+	Student response: erat@morbitristique.superfake
+incorrect email
+	Correct response: amet79@neque.superfake.com
+	Student response: amet79@neque.superfake
+incorrect email
+	Correct response: iaculis.enim@mauris.superfake.com
+	Student response: iaculis.enim@mauris.superfake
+incorrect email
+	Correct response: lectus.justo@nisimagnased.fake.com
+	Student response: lectus.justo@nisimagnased.fake
+incorrect email
+	Correct response: sit.amet.diam@senectuset.superfake.com
+	Student response: sit.amet.diam@senectuset.superfake
+incorrect email
+	Correct response: in.tempus@egestasDuis.fake.com
+	Student response: in.tempus@egestasDuis.fake
+incorrect email
+	Correct response: suscipit.est@nuncQuisqueornare.fake.com
+	Student response: suscipit.est@nuncQuisqueornare.fake
+incorrect email
+	Correct response: nisi.magna.sed@duiquis.superfake.com
+	Student response: nisi.magna.sed@duiquis.superfake
+incorrect email
+	Correct response: sodales@Sed.superfake.com
+	Student response: sodales@Sed.superfake
+incorrect email
+	Correct response: metus@acfeugiatnon.superfake.com
+	Student response: metus@acfeugiatnon.superfake
+incorrect email
+	Correct response: elit.pellentesque.a@egestas.superfake.com
+	Student response: elit.pellentesque.a@egestas.superfake
+incorrect email
+	Correct response: ante.dictum@aceleifendvitae.superfake.com
+	Student response: ante.dictum@aceleifendvitae.superfake
+incorrect email
+	Correct response: pellentesque.eget.dictum@ametrisusDonec.superfake.com
+	Student response: pellentesque.eget.dictum@ametrisusDonec.superfake
+incorrect email
+	Correct response: posuere.vulputate.lacus47@Curabitur.superfake.com
+	Student response: posuere.vulputate.lacus47@Curabitur.superfake
+incorrect email
+	Correct response: aliquet.odio.Etiam@Aliquam.fake.com
+	Student response: aliquet.odio.Etiam@Aliquam.fake
+incorrect email
+	Correct response: nec@volutpatornare.fake.com
+	Student response: nec@volutpatornare.fake
+incorrect email
+	Correct response: Duis.elementum49@id.fake.com
+	Student response: Duis.elementum49@id.fake
+incorrect email
+	Correct response: vitae.aliquam.eros@auctor.fake.com
+	Student response: vitae.aliquam.eros@auctor.fake
+incorrect email
+	Correct response: libero.at_41@utdolordapibus.fake.com
+	Student response: libero.at_41@utdolordapibus.fake
+incorrect email
+	Correct response: Cum@disparturient.superfake.com
+	Student response: Cum@disparturient.superfake
+incorrect email
+	Correct response: purus.Duis@enim.fake.com
+	Student response: purus.Duis@enim.fake
+incorrect email
+	Correct response: libero@interdum.superfake.com
+	Student response: libero@interdum.superfake
+incorrect email
+	Correct response: nec.diam.Duis@dolorvitae.superfake.com
+	Student response: nec.diam.Duis@dolorvitae.superfake
+incorrect email
+	Correct response: ut@afelis.fake.com
+	Student response: ut@afelis.fake
+incorrect email
+	Correct response: turpis@luctus.fake.com
+	Student response: turpis@luctus.fake
+incorrect email
+	Correct response: ultrices_42@dictumProineget.superfake.com
+	Student response: ultrices_42@dictumProineget.superfake
+incorrect email
+	Correct response: sociosqu@eteuismod.fake.com
+	Student response: sociosqu@eteuismod.fake
+incorrect email
+	Correct response: a@ligulaAliquamerat.fake.com
+	Student response: a@ligulaAliquamerat.fake
+incorrect email
+	Correct response: metus.sit41@IntegermollisInteger.superfake.com
+	Student response: metus.sit41@IntegermollisInteger.superfake
+incorrect email
+	Correct response: egestas.Aliquam@ipsum.fake.com
+	Student response: egestas.Aliquam@ipsum.fake
+incorrect email
+	Correct response: risus.Duis.a@feugiat.fake.com
+	Student response: risus.Duis.a@feugiat.fake
+incorrect email
+	Correct response: nascetur.ridiculus.mus@Morbi.fake.com
+	Student response: nascetur.ridiculus.mus@Morbi.fake
+incorrect email
+	Correct response: lorem.ipsum@ligulatortordictum.fake.com
+	Student response: lorem.ipsum@ligulatortordictum.fake
+incorrect email
+	Correct response: lacinia@purussapiengravida.fake.com
+	Student response: lacinia@purussapiengravida.fake
+incorrect email
+	Correct response: Nam.porttitor@Donec.superfake.com
+	Student response: Nam.porttitor@Donec.superfake
+incorrect email
+	Correct response: Mauris.quis@loremvehiculaet.superfake.com
+	Student response: Mauris.quis@loremvehiculaet.superfake
+incorrect email
+	Correct response: Cras.eget.nisi@blanditmattis.superfake.com
+	Student response: Cras.eget.nisi@blanditmattis.superfake
+incorrect email
+	Correct response: diam.Proin.dolor@duinectempus.fake.com
+	Student response: diam.Proin.dolor@duinectempus.fake
+incorrect email
+	Correct response: enim@sagittis.fake.com
+	Student response: enim@sagittis.fake
+incorrect email
+	Correct response: libero@imperdietullamcorperDuis.superfake.com
+	Student response: libero@imperdietullamcorperDuis.superfake
+incorrect email
+	Correct response: rhoncus14@rutrumFuscedolor.fake.com
+	Student response: rhoncus14@rutrumFuscedolor.fake
+incorrect email
+	Correct response: a@odio.fake.com
+	Student response: a@odio.fake
+incorrect email
+	Correct response: dignissim.pharetra@porttitorscelerisque.fake.com
+	Student response: dignissim.pharetra@porttitorscelerisque.fake
+incorrect email
+	Correct response: lacus.Nulla@Proinmi.superfake.com
+	Student response: lacus.Nulla@Proinmi.superfake
+incorrect email
+	Correct response: turpis.Nulla@ullamcorpereu.superfake.com
+	Student response: turpis.Nulla@ullamcorpereu.superfake
+incorrect email
+	Correct response: ut.erat.Sed@dictummi.superfake.com
+	Student response: ut.erat.Sed@dictummi.superfake
+incorrect email
+	Correct response: Nullam@viverraMaecenas.superfake.com
+	Student response: Nullam@viverraMaecenas.superfake
+incorrect email
+	Correct response: ullamcorper.viverra@lacus.fake.com
+	Student response: ullamcorper.viverra@lacus.fake
+incorrect email
+	Correct response: lorem@atauctor.superfake.com
+	Student response: lorem@atauctor.superfake
+incorrect email
+	Correct response: mi.lorem@massa.fake.com
+	Student response: mi.lorem@massa.fake
+incorrect email
+	Correct response: Sed.auctor.odio_18@tinciduntpede.superfake.com
+	Student response: Sed.auctor.odio_18@tinciduntpede.superfake
+incorrect email
+	Correct response: cursus.in.hendrerit_36@dictumProineget.fake.com
+	Student response: cursus.in.hendrerit_36@dictumProineget.fake
+incorrect email
+	Correct response: ac.turpis@utdolor.superfake.com
+	Student response: ac.turpis@utdolor.superfake
+incorrect email
+	Correct response: lobortis.mauris.Suspendisse@Crasloremlorem.fake.com
+	Student response: lobortis.mauris.Suspendisse@Crasloremlorem.fake
+incorrect email
+	Correct response: mattis.Cras_97@et.superfake.com
+	Student response: mattis.Cras_97@et.superfake
+incorrect email
+	Correct response: vitae72_74@ac.superfake.com
+	Student response: vitae72_74@ac.superfake
+incorrect email
+	Correct response: magna@Fuscediamnunc.superfake.com
+	Student response: magna@Fuscediamnunc.superfake
+incorrect email
+	Correct response: Suspendisse@Aliquam.superfake.com
+	Student response: Suspendisse@Aliquam.superfake
+incorrect email
+	Correct response: tincidunt.vehicula_47@euturpis.superfake.com
+	Student response: tincidunt.vehicula_47@euturpis.superfake
+incorrect email
+	Correct response: dui@lacusQuisque.superfake.com
+	Student response: dui@lacusQuisque.superfake
+incorrect email
+	Correct response: vitae.velit.egestas@maurissitamet.superfake.com
+	Student response: vitae.velit.egestas@maurissitamet.superfake
+incorrect email
+	Correct response: sodales@Aeneanegestas.fake.com
+	Student response: sodales@Aeneanegestas.fake
+incorrect email
+	Correct response: lacus_85@Nullamvelitdui.superfake.com
+	Student response: lacus_85@Nullamvelitdui.superfake
+incorrect email
+	Correct response: Sed.nunc.est@cursuset.superfake.com
+	Student response: Sed.nunc.est@cursuset.superfake
+incorrect email
+	Correct response: cubilia@metusAeneansed.fake.com
+	Student response: cubilia@metusAeneansed.fake
+incorrect email
+	Correct response: tellus.Nunc.lectus@arcu.superfake.com
+	Student response: tellus.Nunc.lectus@arcu.superfake
+incorrect email
+	Correct response: Ut.nec@ascelerisquesed.fake.com
+	Student response: Ut.nec@ascelerisquesed.fake
+incorrect email
+	Correct response: Vivamus.non@elitdictum.superfake.com
+	Student response: Vivamus.non@elitdictum.superfake
+incorrect email
+	Correct response: Duis@euenimEtiam.superfake.com
+	Student response: Duis@euenimEtiam.superfake
+incorrect email
+	Correct response: tincidunt.dui.augue@Praesent.superfake.com
+	Student response: tincidunt.dui.augue@Praesent.superfake
+incorrect email
+	Correct response: id.enim@pedemalesuadavel.superfake.com
+	Student response: id.enim@pedemalesuadavel.superfake
+incorrect email
+	Correct response: rhoncus@faucibuslectusa.fake.com
+	Student response: rhoncus@faucibuslectusa.fake
+incorrect email
+	Correct response: orci@gravida.superfake.com
+	Student response: orci@gravida.superfake
+incorrect email
+	Correct response: dignissim.lacus.Aliquam@Nulladignissim.fake.com
+	Student response: dignissim.lacus.Aliquam@Nulladignissim.fake
+incorrect email
+	Correct response: dolor.Quisque@acmetusvitae.fake.com
+	Student response: dolor.Quisque@acmetusvitae.fake
+incorrect email
+	Correct response: eget@fames.fake.com
+	Student response: eget@fames.fake
+incorrect email
+	Correct response: libero85@nec.superfake.com
+	Student response: libero85@nec.superfake
+incorrect email
+	Correct response: Ut.nec.urna@vitae.superfake.com
+	Student response: Ut.nec.urna@vitae.superfake
+incorrect email
+	Correct response: facilisis.non.bibendum@faucibusid.superfake.com
+	Student response: facilisis.non.bibendum@faucibusid.superfake
+incorrect email
+	Correct response: purus@arcuimperdiet.superfake.com
+	Student response: purus@arcuimperdiet.superfake
+incorrect email
+	Correct response: sapien.Aenean@euodio.fake.com
+	Student response: sapien.Aenean@euodio.fake
+incorrect email
+	Correct response: convallis@ligula.superfake.com
+	Student response: convallis@ligula.superfake
+incorrect email
+	Correct response: sed_97@eratvelpede.superfake.com
+	Student response: sed_97@eratvelpede.superfake
+incorrect email
+	Correct response: ullamcorper@eutempor.fake.com
+	Student response: ullamcorper@eutempor.fake
+incorrect email
+	Correct response: porttitor.tellus.non@sodales.superfake.com
+	Student response: porttitor.tellus.non@sodales.superfake
+incorrect email
+	Correct response: mattis@consectetuermaurisid.superfake.com
+	Student response: mattis@consectetuermaurisid.superfake
+incorrect email
+	Correct response: ut.nisi_84@sitamet.superfake.com
+	Student response: ut.nisi_84@sitamet.superfake
+incorrect email
+	Correct response: Mauris.quis.turpis@vestibulum.superfake.com
+	Student response: Mauris.quis.turpis@vestibulum.superfake
+incorrect email
+	Correct response: morbi.tristique.senectus@loremac.fake.com
+	Student response: morbi.tristique.senectus@loremac.fake
+incorrect email
+	Correct response: consectetuer.ipsum@pedenonummyut.fake.com
+	Student response: consectetuer.ipsum@pedenonummyut.fake
+incorrect email
+	Correct response: quam.Pellentesque.habitant@ipsumPhasellus.superfake.com
+	Student response: quam.Pellentesque.habitant@ipsumPhasellus.superfake
+incorrect email
+	Correct response: malesuada.fames.ac@Phaselluselit.fake.com
+	Student response: malesuada.fames.ac@Phaselluselit.fake
+incorrect email
+	Correct response: dui.nec@mus.superfake.com
+	Student response: dui.nec@mus.superfake
+incorrect email
+	Correct response: justo05@dolorsitamet.fake.com
+	Student response: justo05@dolorsitamet.fake
+incorrect email
+	Correct response: sem.egestas@arcu.fake.com
+	Student response: sem.egestas@arcu.fake
+incorrect email
+	Correct response: erat.nonummy.ultricies@semut.fake.com
+	Student response: erat.nonummy.ultricies@semut.fake
+incorrect email
+	Correct response: Cum.sociis.natoque@neceleifendnon.superfake.com
+	Student response: Cum.sociis.natoque@neceleifendnon.superfake
+incorrect email
+	Correct response: mauris.a.nunc78@egestaslaciniaSed.fake.com
+	Student response: mauris.a.nunc78@egestaslaciniaSed.fake
+incorrect email
+	Correct response: aliquet.magna.a@dui.superfake.com
+	Student response: aliquet.magna.a@dui.superfake
+incorrect email
+	Correct response: tristique.ac@feugiat.fake.com
+	Student response: tristique.ac@feugiat.fake
+incorrect email
+	Correct response: orci.tincidunt.adipiscing@Donec.superfake.com
+	Student response: orci.tincidunt.adipiscing@Donec.superfake
+incorrect email
+	Correct response: Duis_07@turpisvitaepurus.superfake.com
+	Student response: Duis_07@turpisvitaepurus.superfake
+incorrect email
+	Correct response: fringilla.purus@dolordapibus.superfake.com
+	Student response: fringilla.purus@dolordapibus.superfake
+incorrect email
+	Correct response: Nulla.dignissim.Maecenas@duiFusce.fake.com
+	Student response: Nulla.dignissim.Maecenas@duiFusce.fake
+incorrect email
+	Correct response: Donec.non.justo00@Proinnisl.superfake.com
+	Student response: Donec.non.justo00@Proinnisl.superfake
+incorrect email
+	Correct response: id@aliquamerosturpis.superfake.com
+	Student response: id@aliquamerosturpis.superfake
+incorrect email
+	Correct response: egestas.nunc.sed@CurabiturdictumPhasellus.superfake.com
+	Student response: egestas.nunc.sed@CurabiturdictumPhasellus.superfake
+incorrect email
+	Correct response: consequat.lectus_16@velitSed.superfake.com
+	Student response: consequat.lectus_16@velitSed.superfake
+incorrect email
+	Correct response: Duis.ac@Seddiamlorem.fake.com
+	Student response: Duis.ac@Seddiamlorem.fake
+incorrect email
+	Correct response: diam.lorem.auctor@Donectempus.superfake.com
+	Student response: diam.lorem.auctor@Donectempus.superfake
+incorrect email
+	Correct response: malesuada.fames.ac@mus.fake.com
+	Student response: malesuada.fames.ac@mus.fake
+incorrect email
+	Correct response: neque.et.nunc@euerosNam.superfake.com
+	Student response: neque.et.nunc@euerosNam.superfake
+incorrect email
+	Correct response: aliquet@tempusrisus.superfake.com
+	Student response: aliquet@tempusrisus.superfake
+incorrect email
+	Correct response: turpis.non@ac.fake.com
+	Student response: turpis.non@ac.fake
+incorrect email
+	Correct response: Integer@consectetuerrhoncus.fake.com
+	Student response: Integer@consectetuerrhoncus.fake
+incorrect email
+	Correct response: pede.Nunc@metus.fake.com
+	Student response: pede.Nunc@metus.fake
+incorrect email
+	Correct response: accumsan.sed@erat.fake.com
+	Student response: accumsan.sed@erat.fake
+incorrect email
+	Correct response: tincidunt.vehicula.risus_66@Etiam.superfake.com
+	Student response: tincidunt.vehicula.risus_66@Etiam.superfake
+incorrect email
+	Correct response: libero.Morbi.accumsan@euarcu.superfake.com
+	Student response: libero.Morbi.accumsan@euarcu.superfake
+incorrect email
+	Correct response: diam.dictum.sapien@augue.superfake.com
+	Student response: diam.dictum.sapien@augue.superfake
+incorrect email
+	Correct response: tempor@risusDuis.superfake.com
+	Student response: tempor@risusDuis.superfake
+incorrect email
+	Correct response: egestas.Sed.pharetra@massa.fake.com
+	Student response: egestas.Sed.pharetra@massa.fake
+incorrect email
+	Correct response: hendrerit.neque.In@odiotristique.superfake.com
+	Student response: hendrerit.neque.In@odiotristique.superfake
+incorrect email
+	Correct response: elit@ametluctus.fake.com
+	Student response: elit@ametluctus.fake
+incorrect email
+	Correct response: lobortis39@lobortisultrices.fake.com
+	Student response: lobortis39@lobortisultrices.fake
+incorrect email
+	Correct response: Proin.nisl@fermentum.fake.com
+	Student response: Proin.nisl@fermentum.fake
+incorrect email
+	Correct response: Donec@etlibero.fake.com
+	Student response: Donec@etlibero.fake
+incorrect email
+	Correct response: sit@sedpede.superfake.com
+	Student response: sit@sedpede.superfake
+incorrect email
+	Correct response: malesuada.fringilla_25@nectempusscelerisque.superfake.com
+	Student response: malesuada.fringilla_25@nectempusscelerisque.superfake
+incorrect email
+	Correct response: Suspendisse.eleifend.Cras@eueuismod.fake.com
+	Student response: Suspendisse.eleifend.Cras@eueuismod.fake
+incorrect email
+	Correct response: vel.est.tempor@dolor.superfake.com
+	Student response: vel.est.tempor@dolor.superfake
+incorrect email
+	Correct response: dapibus.id.blandit@faucibusut.fake.com
+	Student response: dapibus.id.blandit@faucibusut.fake
+incorrect email
+	Correct response: et.arcu.imperdiet@In.fake.com
+	Student response: et.arcu.imperdiet@In.fake
+incorrect email
+	Correct response: pretium.aliquet@leoVivamusnibh.superfake.com
+	Student response: pretium.aliquet@leoVivamusnibh.superfake
+incorrect email
+	Correct response: euismod.et.commodo_36@Aliquamadipiscinglobortis.fake.com
+	Student response: euismod.et.commodo_36@Aliquamadipiscinglobortis.fake
+incorrect email
+	Correct response: diam.at@gravida.superfake.com
+	Student response: diam.at@gravida.superfake
+incorrect email
+	Correct response: a.arcu.Sed@arcu.superfake.com
+	Student response: a.arcu.Sed@arcu.superfake
+incorrect email
+	Correct response: velit@magnaUt.superfake.com
+	Student response: velit@magnaUt.superfake
+incorrect email
+	Correct response: nunc.ullamcorper@nectellus.superfake.com
+	Student response: nunc.ullamcorper@nectellus.superfake
+incorrect email
+	Correct response: Duis.at.lacus_37@nunc.fake.com
+	Student response: Duis.at.lacus_37@nunc.fake
+incorrect email
+	Correct response: ultrices.iaculis@dis.fake.com
+	Student response: ultrices.iaculis@dis.fake
+incorrect email
+	Correct response: lacus.Quisque@placerateget.fake.com
+	Student response: lacus.Quisque@placerateget.fake
+incorrect email
+	Correct response: ligula@nibhDonec.superfake.com
+	Student response: ligula@nibhDonec.superfake
+incorrect email
+	Correct response: at.fringilla.purus@Praesenteu.superfake.com
+	Student response: at.fringilla.purus@Praesenteu.superfake
+incorrect email
+	Correct response: enim@Sed.superfake.com
+	Student response: enim@Sed.superfake
+incorrect email
+	Correct response: diam.at90@atauctorullamcorper.superfake.com
+	Student response: diam.at90@atauctorullamcorper.superfake
+incorrect email
+	Correct response: ac.mattis.ornare@Cras.superfake.com
+	Student response: ac.mattis.ornare@Cras.superfake
+incorrect email
+	Correct response: magna_84@Uttincidunt.superfake.com
+	Student response: magna_84@Uttincidunt.superfake
+incorrect email
+	Correct response: urna.justo@aceleifendvitae.fake.com
+	Student response: urna.justo@aceleifendvitae.fake
+incorrect email
+	Correct response: Duis.risus@sapienCras.fake.com
+	Student response: Duis.risus@sapienCras.fake
+incorrect email
+	Correct response: rhoncus.Proin_27@tortorNunc.superfake.com
+	Student response: rhoncus.Proin_27@tortorNunc.superfake
+incorrect email
+	Correct response: vulputate.lacus@neque.superfake.com
+	Student response: vulputate.lacus@neque.superfake
+incorrect email
+	Correct response: aliquam.eu@FuscefeugiatLorem.fake.com
+	Student response: aliquam.eu@FuscefeugiatLorem.fake
+incorrect email
+	Correct response: Phasellus.fermentum.convallis22@rutrumeu.superfake.com
+	Student response: Phasellus.fermentum.convallis22@rutrumeu.superfake
+incorrect email
+	Correct response: pretium.et.rutrum@iaculisaliquetdiam.fake.com
+	Student response: pretium.et.rutrum@iaculisaliquetdiam.fake
+incorrect email
+	Correct response: neque.sed.dictum@vel.superfake.com
+	Student response: neque.sed.dictum@vel.superfake
+incorrect email
+	Correct response: aliquet39@semperduilectus.superfake.com
+	Student response: aliquet39@semperduilectus.superfake
+incorrect email
+	Correct response: sapien.cursus_56@felisullamcorper.fake.com
+	Student response: sapien.cursus_56@felisullamcorper.fake
+incorrect email
+	Correct response: neque85@necurnasuscipit.superfake.com
+	Student response: neque85@necurnasuscipit.superfake
+incorrect email
+	Correct response: Curabitur.ut11@Quisquepurussapien.superfake.com
+	Student response: Curabitur.ut11@Quisquepurussapien.superfake
+incorrect email
+	Correct response: vel.faucibus@tristiquepellentesque.fake.com
+	Student response: vel.faucibus@tristiquepellentesque.fake
+incorrect email
+	Correct response: elit.pellentesque@dictumultriciesligula.superfake.com
+	Student response: elit.pellentesque@dictumultriciesligula.superfake
+incorrect email
+	Correct response: arcu@tristique.fake.com
+	Student response: arcu@tristique.fake
+incorrect email
+	Correct response: tellus@elementumategestas.fake.com
+	Student response: tellus@elementumategestas.fake
+incorrect email
+	Correct response: sit.amet@a.superfake.com
+	Student response: sit.amet@a.superfake
+incorrect email
+	Correct response: dui.in.sodales@eu.superfake.com
+	Student response: dui.in.sodales@eu.superfake
+incorrect email
+	Correct response: sodales.at.velit@necimperdiet.fake.com
+	Student response: sodales.at.velit@necimperdiet.fake
+incorrect email
+	Correct response: sit.amet.lorem91@auctor.fake.com
+	Student response: sit.amet.lorem91@auctor.fake
+incorrect email
+	Correct response: Aliquam.ornare.libero@acfermentum.superfake.com
+	Student response: Aliquam.ornare.libero@acfermentum.superfake
+incorrect email
+	Correct response: Fusce.aliquam@Sed.superfake.com
+	Student response: Fusce.aliquam@Sed.superfake
+incorrect email
+	Correct response: fringilla.purus@Curabiturmassa.superfake.com
+	Student response: fringilla.purus@Curabiturmassa.superfake
+incorrect email
+	Correct response: pede.Suspendisse_66@Donec.fake.com
+	Student response: pede.Suspendisse_66@Donec.fake
+incorrect email
+	Correct response: Sed.pharetra@Nunc.superfake.com
+	Student response: Sed.pharetra@Nunc.superfake
+incorrect email
+	Correct response: risus.Morbi.metus@Praesentluctus.fake.com
+	Student response: risus.Morbi.metus@Praesentluctus.fake
+incorrect email
+	Correct response: massa.Quisque@Donec.superfake.com
+	Student response: massa.Quisque@Donec.superfake
+incorrect email
+	Correct response: pretium80@dignissimmagna.fake.com
+	Student response: pretium80@dignissimmagna.fake
+incorrect email
+	Correct response: iaculis@DonecnibhQuisque.superfake.com
+	Student response: iaculis@DonecnibhQuisque.superfake
+incorrect email
+	Correct response: consequat@fringillapurus.superfake.com
+	Student response: consequat@fringillapurus.superfake
+incorrect email
+	Correct response: aliquam.eu@porttitor.superfake.com
+	Student response: aliquam.eu@porttitor.superfake
+incorrect email
+	Correct response: lectus.sit_65@mollisDuissit.superfake.com
+	Student response: lectus.sit_65@mollisDuissit.superfake
+incorrect email
+	Correct response: lorem@Innec.superfake.com
+	Student response: lorem@Innec.superfake
+incorrect email
+	Correct response: ipsum09@quamquisdiam.fake.com
+	Student response: ipsum09@quamquisdiam.fake
+incorrect email
+	Correct response: ac.arcu.Nunc@Morbiquisurna.fake.com
+	Student response: ac.arcu.Nunc@Morbiquisurna.fake
+incorrect email
+	Correct response: sed.sem.egestas@duinectempus.fake.com
+	Student response: sed.sem.egestas@duinectempus.fake
+incorrect email
+	Correct response: varius.ultrices@Nunccommodo.superfake.com
+	Student response: varius.ultrices@Nunccommodo.superfake
+incorrect email
+	Correct response: lectus.sit@odioAliquamvulputate.superfake.com
+	Student response: lectus.sit@odioAliquamvulputate.superfake
+incorrect email
+	Correct response: leo.Morbi@Curabiturmassa.fake.com
+	Student response: leo.Morbi@Curabiturmassa.fake
+incorrect email
+	Correct response: Integer.mollis@parturientmontes.fake.com
+	Student response: Integer.mollis@parturientmontes.fake
+incorrect email
+	Correct response: at@egetipsum.fake.com
+	Student response: at@egetipsum.fake
+incorrect email
+	Correct response: sapien@Curae.superfake.com
+	Student response: sapien@Curae.superfake
+incorrect email
+	Correct response: viverra.Donec.tempus@sem.superfake.com
+	Student response: viverra.Donec.tempus@sem.superfake
+incorrect email
+	Correct response: enim.non@velitdui.fake.com
+	Student response: enim.non@velitdui.fake
+incorrect email
+	Correct response: justo@placerat.superfake.com
+	Student response: justo@placerat.superfake
+incorrect email
+	Correct response: lobortis.risus.In@hendrerit.superfake.com
+	Student response: lobortis.risus.In@hendrerit.superfake
+incorrect email
+	Correct response: Donec14@enimMauris.fake.com
+	Student response: Donec14@enimMauris.fake
+incorrect email
+	Correct response: velit.Cras.lorem@liberoProin.fake.com
+	Student response: velit.Cras.lorem@liberoProin.fake
+incorrect email
+	Correct response: enim@sollicitudinadipiscingligula.superfake.com
+	Student response: enim@sollicitudinadipiscingligula.superfake
+incorrect email
+	Correct response: fermentum.vel.mauris@id.superfake.com
+	Student response: fermentum.vel.mauris@id.superfake
+incorrect email
+	Correct response: est.Nunc@acmattissemper.superfake.com
+	Student response: est.Nunc@acmattissemper.superfake
+incorrect email
+	Correct response: justo.Proin.non@dui.fake.com
+	Student response: justo.Proin.non@dui.fake
+incorrect email
+	Correct response: vel.venenatis@necimperdietnec.superfake.com
+	Student response: vel.venenatis@necimperdietnec.superfake
+incorrect email
+	Correct response: orci.tincidunt@enimNunc.superfake.com
+	Student response: orci.tincidunt@enimNunc.superfake
+incorrect email
+	Correct response: Fusce29@mattisornare.fake.com
+	Student response: Fusce29@mattisornare.fake
+incorrect email
+	Correct response: Donec.est.mauris@temporaugue.fake.com
+	Student response: Donec.est.mauris@temporaugue.fake
+incorrect email
+	Correct response: Suspendisse_75@Integer.superfake.com
+	Student response: Suspendisse_75@Integer.superfake
+incorrect email
+	Correct response: eget.magna@at.superfake.com
+	Student response: eget.magna@at.superfake
+incorrect email
+	Correct response: nunc.ullamcorper.eu@auctor.fake.com
+	Student response: nunc.ullamcorper.eu@auctor.fake
+incorrect email
+	Correct response: fringilla.mi.lacinia@Ut.fake.com
+	Student response: fringilla.mi.lacinia@Ut.fake
+incorrect email
+	Correct response: lacinia@urnaNullam.fake.com
+	Student response: lacinia@urnaNullam.fake
+incorrect email
+	Correct response: et.ultrices_53@non.fake.com
+	Student response: et.ultrices_53@non.fake
+incorrect email
+	Correct response: sem@auctornunc.fake.com
+	Student response: sem@auctornunc.fake
+incorrect email
+	Correct response: nisi@in.fake.com
+	Student response: nisi@in.fake
+incorrect email
+	Correct response: velit.Pellentesque@elitNulla.fake.com
+	Student response: velit.Pellentesque@elitNulla.fake
+incorrect email
+	Correct response: risus_74@auctorMauris.superfake.com
+	Student response: risus_74@auctorMauris.superfake
+incorrect email
+	Correct response: ornare.placerat.orci@nisimagna.superfake.com
+	Student response: ornare.placerat.orci@nisimagna.superfake
+incorrect email
+	Correct response: nunc.sed@enimnectempus.fake.com
+	Student response: nunc.sed@enimnectempus.fake
+incorrect email
+	Correct response: ac.tellus.Suspendisse@Integermollis.superfake.com
+	Student response: ac.tellus.Suspendisse@Integermollis.superfake
+incorrect email
+	Correct response: amet09@estac.fake.com
+	Student response: amet09@estac.fake
+incorrect email
+	Correct response: enim@posuerecubiliaCurae.fake.com
+	Student response: enim@posuerecubiliaCurae.fake
+incorrect email
+	Correct response: ante.dictum@perconubianostra.fake.com
+	Student response: ante.dictum@perconubianostra.fake
+incorrect email
+	Correct response: a.enim.Suspendisse@semmolestiesodales.fake.com
+	Student response: a.enim.Suspendisse@semmolestiesodales.fake
+incorrect email
+	Correct response: vulputate.velit.eu_08@id.superfake.com
+	Student response: vulputate.velit.eu_08@id.superfake
+incorrect email
+	Correct response: dolor.egestas@liberoestcongue.fake.com
+	Student response: dolor.egestas@liberoestcongue.fake
+incorrect email
+	Correct response: non.lobortis.quis@mattissemper.fake.com
+	Student response: non.lobortis.quis@mattissemper.fake
+incorrect email
+	Correct response: justo_46@malesuadafames.superfake.com
+	Student response: justo_46@malesuadafames.superfake
+incorrect email
+	Correct response: metus.urna.convallis@tristiqueac.fake.com
+	Student response: metus.urna.convallis@tristiqueac.fake
+incorrect email
+	Correct response: dis.parturient@Nuncullamcorpervelit.superfake.com
+	Student response: dis.parturient@Nuncullamcorpervelit.superfake
+incorrect email
+	Correct response: feugiat@nibhenim.fake.com
+	Student response: feugiat@nibhenim.fake
+incorrect email
+	Correct response: molestie.orci@anteipsumprimis.fake.com
+	Student response: molestie.orci@anteipsumprimis.fake
+incorrect email
+	Correct response: accumsan.interdum.libero35@miac.fake.com
+	Student response: accumsan.interdum.libero35@miac.fake
+incorrect email
+	Correct response: adipiscing.elit.Aliquam@vehiculaPellentesque.superfake.com
+	Student response: adipiscing.elit.Aliquam@vehiculaPellentesque.superfake
+incorrect email
+	Correct response: ipsum64@Nullamlobortis.fake.com
+	Student response: ipsum64@Nullamlobortis.fake
+incorrect email
+	Correct response: Duis.dignissim.tempor36@Maecenas.superfake.com
+	Student response: Duis.dignissim.tempor36@Maecenas.superfake
+incorrect email
+	Correct response: tempus.risus@eu.fake.com
+	Student response: tempus.risus@eu.fake
+incorrect email
+	Correct response: laoreet.libero_82@tinciduntDonec.superfake.com
+	Student response: laoreet.libero_82@tinciduntDonec.superfake
+incorrect email
+	Correct response: dui.nec.urna@inlobortis.superfake.com
+	Student response: dui.nec.urna@inlobortis.superfake
+incorrect email
+	Correct response: Ut.tincidunt@lectusasollicitudin.superfake.com
+	Student response: Ut.tincidunt@lectusasollicitudin.superfake
+incorrect email
+	Correct response: ipsum.ac.mi@enimgravida.fake.com
+	Student response: ipsum.ac.mi@enimgravida.fake
+incorrect email
+	Correct response: facilisis.non@lobortisquispede.superfake.com
+	Student response: facilisis.non@lobortisquispede.superfake
+incorrect email
+	Correct response: eget@porttitor.fake.com
+	Student response: eget@porttitor.fake
+incorrect email
+	Correct response: purus.accumsan@pellentesque.fake.com
+	Student response: purus.accumsan@pellentesque.fake
+incorrect email
+	Correct response: faucibus@felis.superfake.com
+	Student response: faucibus@felis.superfake
+incorrect email
+	Correct response: blandit@faucibusorciluctus.superfake.com
+	Student response: blandit@faucibusorciluctus.superfake
+incorrect email
+	Correct response: vehicula.aliquet.libero@Classaptent.superfake.com
+	Student response: vehicula.aliquet.libero@Classaptent.superfake
+incorrect email
+	Correct response: orci@velit.fake.com
+	Student response: orci@velit.fake
+incorrect email
+	Correct response: vitae.odio.sagittis@nullaIntegerurna.fake.com
+	Student response: vitae.odio.sagittis@nullaIntegerurna.fake
+incorrect email
+	Correct response: ipsum.primis.in@enim.superfake.com
+	Student response: ipsum.primis.in@enim.superfake
+incorrect email
+	Correct response: accumsan.interdum@idmollis.superfake.com
+	Student response: accumsan.interdum@idmollis.superfake
+incorrect email
+	Correct response: Suspendisse.ac@parturientmontes.superfake.com
+	Student response: Suspendisse.ac@parturientmontes.superfake
+incorrect email
+	Correct response: sodales.at.velit@volutpatornarefacilisis.superfake.com
+	Student response: sodales.at.velit@volutpatornarefacilisis.superfake
+incorrect email
+	Correct response: montes@Vestibulumaccumsan.fake.com
+	Student response: montes@Vestibulumaccumsan.fake
+incorrect email
+	Correct response: velit.eu_03@Proin.superfake.com
+	Student response: velit.eu_03@Proin.superfake
+incorrect email
+	Correct response: Nunc.sed@sapienimperdietornare.fake.com
+	Student response: Nunc.sed@sapienimperdietornare.fake
+incorrect email
+	Correct response: pede@nuncnulla.fake.com
+	Student response: pede@nuncnulla.fake
+incorrect email
+	Correct response: et.magna.Praesent@laoreetlectusquis.fake.com
+	Student response: et.magna.Praesent@laoreetlectusquis.fake
+incorrect email
+	Correct response: dis@venenatislacus.superfake.com
+	Student response: dis@venenatislacus.superfake
+incorrect email
+	Correct response: Ut.sagittis@blanditviverra.superfake.com
+	Student response: Ut.sagittis@blanditviverra.superfake
+incorrect email
+	Correct response: Ut@diam.superfake.com
+	Student response: Ut@diam.superfake
+incorrect email
+	Correct response: sed.turpis.nec_64@mieleifend.fake.com
+	Student response: sed.turpis.nec_64@mieleifend.fake
+incorrect email
+	Correct response: vitae.risus.Duis@semperrutrumFusce.fake.com
+	Student response: vitae.risus.Duis@semperrutrumFusce.fake
+incorrect email
+	Correct response: pharetra.felis.eget@Duiscursusdiam.fake.com
+	Student response: pharetra.felis.eget@Duiscursusdiam.fake
+incorrect email
+	Correct response: Nulla@elitfermentum.fake.com
+	Student response: Nulla@elitfermentum.fake
+incorrect email
+	Correct response: eros_36@ultricesiaculis.superfake.com
+	Student response: eros_36@ultricesiaculis.superfake
+incorrect email
+	Correct response: Nunc.mauris05@sed.fake.com
+	Student response: Nunc.mauris05@sed.fake
+incorrect email
+	Correct response: arcu.Sed.eu@vellectus.superfake.com
+	Student response: arcu.Sed.eu@vellectus.superfake
+incorrect email
+	Correct response: Donec.elementum.lorem_43@eutelluseu.fake.com
+	Student response: Donec.elementum.lorem_43@eutelluseu.fake
+incorrect email
+	Correct response: enim@consectetuereuismodest.fake.com
+	Student response: enim@consectetuereuismodest.fake
+incorrect email
+	Correct response: sollicitudin.commodo.ipsum@elit.fake.com
+	Student response: sollicitudin.commodo.ipsum@elit.fake
+incorrect email
+	Correct response: Cras@dolorFuscemi.fake.com
+	Student response: Cras@dolorFuscemi.fake
+incorrect email
+	Correct response: dui.lectus.rutrum@maurisaliquam.superfake.com
+	Student response: dui.lectus.rutrum@maurisaliquam.superfake
+incorrect email
+	Correct response: vel.nisl_41@congueInscelerisque.fake.com
+	Student response: vel.nisl_41@congueInscelerisque.fake
+incorrect email
+	Correct response: sit.amet_73@noncursus.fake.com
+	Student response: sit.amet_73@noncursus.fake
+incorrect email
+	Correct response: nunc@sagittis.fake.com
+	Student response: nunc@sagittis.fake
+incorrect email
+	Correct response: ligula.eu@vulputate.fake.com
+	Student response: ligula.eu@vulputate.fake
+incorrect email
+	Correct response: vitae.sodales.at@dolorFusce.superfake.com
+	Student response: vitae.sodales.at@dolorFusce.superfake
+incorrect email
+	Correct response: Aenean@at.superfake.com
+	Student response: Aenean@at.superfake
+incorrect email
+	Correct response: ultricies@sociisnatoquepenatibus.superfake.com
+	Student response: ultricies@sociisnatoquepenatibus.superfake
+incorrect email
+	Correct response: lobortis.risus@faucibuslectus.superfake.com
+	Student response: lobortis.risus@faucibuslectus.superfake
+incorrect email
+	Correct response: elit.pellentesque.a@euerosNam.fake.com
+	Student response: elit.pellentesque.a@euerosNam.fake
+incorrect email
+	Correct response: augue.Sed.molestie@Aliquamultricesiaculis.superfake.com
+	Student response: augue.Sed.molestie@Aliquamultricesiaculis.superfake
+incorrect email
+	Correct response: ac@netusetmalesuada.fake.com
+	Student response: ac@netusetmalesuada.fake
+incorrect email
+	Correct response: in.sodales_54@elitsedconsequat.superfake.com
+	Student response: in.sodales_54@elitsedconsequat.superfake
+incorrect email
+	Correct response: sed.dui@ac.superfake.com
+	Student response: sed.dui@ac.superfake
+incorrect email
+	Correct response: sem@mattis.superfake.com
+	Student response: sem@mattis.superfake
+incorrect email
+	Correct response: luctus.ipsum.leo_86@dolornonummy.superfake.com
+	Student response: luctus.ipsum.leo_86@dolornonummy.superfake
+incorrect email
+	Correct response: arcu@enim.superfake.com
+	Student response: arcu@enim.superfake
+incorrect email
+	Correct response: ac.nulla.In@blandit.superfake.com
+	Student response: ac.nulla.In@blandit.superfake
+incorrect email
+	Correct response: euismod.et.commodo@CuraeDonec.superfake.com
+	Student response: euismod.et.commodo@CuraeDonec.superfake
+incorrect email
+	Correct response: diam.Proin@egetnisi.fake.com
+	Student response: diam.Proin@egetnisi.fake
+incorrect email
+	Correct response: ac.metus.vitae@luctusipsum.superfake.com
+	Student response: ac.metus.vitae@luctusipsum.superfake
+incorrect email
+	Correct response: urna@mollisneccursus.fake.com
+	Student response: urna@mollisneccursus.fake
+incorrect email
+	Correct response: elit@arcuNunc.fake.com
+	Student response: elit@arcuNunc.fake
+incorrect email
+	Correct response: orci@vulputatelacusCras.fake.com
+	Student response: orci@vulputatelacusCras.fake
+incorrect email
+	Correct response: Ut.tincidunt@nascetur.fake.com
+	Student response: Ut.tincidunt@nascetur.fake
+incorrect email
+	Correct response: sed.dui_72@rutrumurnanec.fake.com
+	Student response: sed.dui_72@rutrumurnanec.fake
+incorrect email
+	Correct response: sagittis.augue@etmagnisdis.fake.com
+	Student response: sagittis.augue@etmagnisdis.fake
+incorrect email
+	Correct response: vel.nisl.Quisque@sitametante.fake.com
+	Student response: vel.nisl.Quisque@sitametante.fake
+incorrect email
+	Correct response: ac.ipsum.Phasellus_76@feugiatmetus.superfake.com
+	Student response: ac.ipsum.Phasellus_76@feugiatmetus.superfake
+incorrect email
+	Correct response: Quisque.ornare@Morbiaccumsan.fake.com
+	Student response: Quisque.ornare@Morbiaccumsan.fake
+incorrect email
+	Correct response: purus.Nullam.scelerisque11@faucibus.fake.com
+	Student response: purus.Nullam.scelerisque11@faucibus.fake
+incorrect email
+	Correct response: lacus.Aliquam@tinciduntduiaugue.fake.com
+	Student response: lacus.Aliquam@tinciduntduiaugue.fake
+incorrect email
+	Correct response: eu.dolor@elitEtiam.fake.com
+	Student response: eu.dolor@elitEtiam.fake
+incorrect email
+	Correct response: pede_68@nisinibhlacinia.fake.com
+	Student response: pede_68@nisinibhlacinia.fake
+incorrect email
+	Correct response: molestie.orci.tincidunt@dolor.fake.com
+	Student response: molestie.orci.tincidunt@dolor.fake
+incorrect email
+	Correct response: massa@ultricesiaculis.superfake.com
+	Student response: massa@ultricesiaculis.superfake
+incorrect email
+	Correct response: et.pede@velit.superfake.com
+	Student response: et.pede@velit.superfake
+incorrect email
+	Correct response: elit52@egetipsumSuspendisse.fake.com
+	Student response: elit52@egetipsumSuspendisse.fake
+incorrect email
+	Correct response: non.leo.Vivamus@Integeridmagna.superfake.com
+	Student response: non.leo.Vivamus@Integeridmagna.superfake
+incorrect email
+	Correct response: semper_01@ultricesposuere.fake.com
+	Student response: semper_01@ultricesposuere.fake
+incorrect email
+	Correct response: dolor@eu.superfake.com
+	Student response: dolor@eu.superfake
+incorrect email
+	Correct response: tempus.lorem.fringilla@ut.fake.com
+	Student response: tempus.lorem.fringilla@ut.fake
+incorrect email
+	Correct response: arcu@ligulaeuenim.fake.com
+	Student response: arcu@ligulaeuenim.fake
+incorrect email
+	Correct response: Donec.at.arcu@nuncsedpede.superfake.com
+	Student response: Donec.at.arcu@nuncsedpede.superfake
+incorrect email
+	Correct response: laoreet.posuere.enim@rutrumnon.fake.com
+	Student response: laoreet.posuere.enim@rutrumnon.fake
+incorrect email
+	Correct response: eu.dolor@Maurisquis.superfake.com
+	Student response: eu.dolor@Maurisquis.superfake
+incorrect email
+	Correct response: erat.Sed@aliquetlobortis.fake.com
+	Student response: erat.Sed@aliquetlobortis.fake
+incorrect email
+	Correct response: consectetuer.euismod.est@arcu.fake.com
+	Student response: consectetuer.euismod.est@arcu.fake
+incorrect email
+	Correct response: imperdiet.dictum.magna79_39@aliquet.fake.com
+	Student response: imperdiet.dictum.magna79_39@aliquet.fake
+incorrect email
+	Correct response: sagittis_53@orci.fake.com
+	Student response: sagittis_53@orci.fake
+incorrect email
+	Correct response: at.egestas.a@molestieorci.superfake.com
+	Student response: at.egestas.a@molestieorci.superfake
+incorrect email
+	Correct response: sem.mollis@nonenimcommodo.fake.com
+	Student response: sem.mollis@nonenimcommodo.fake
+incorrect email
+	Correct response: a.dui.Cras@duilectus.superfake.com
+	Student response: a.dui.Cras@duilectus.superfake
+incorrect email
+	Correct response: quis.massa@CrasinterdumNunc.fake.com
+	Student response: quis.massa@CrasinterdumNunc.fake
+incorrect email
+	Correct response: vestibulum.lorem@senectuset.superfake.com
+	Student response: vestibulum.lorem@senectuset.superfake
+incorrect email
+	Correct response: elementum.sem.vitae@velfaucibusid.superfake.com
+	Student response: elementum.sem.vitae@velfaucibusid.superfake
+incorrect email
+	Correct response: Nunc.ut@nuncestmollis.fake.com
+	Student response: Nunc.ut@nuncestmollis.fake
+incorrect email
+	Correct response: semper.rutrum.Fusce@enimcommodohendrerit.fake.com
+	Student response: semper.rutrum.Fusce@enimcommodohendrerit.fake
+incorrect email
+	Correct response: inceptos.hymenaeos@tristiquesenectuset.fake.com
+	Student response: inceptos.hymenaeos@tristiquesenectuset.fake
+incorrect email
+	Correct response: montes.nascetur@Nullaaliquet.fake.com
+	Student response: montes.nascetur@Nullaaliquet.fake
+incorrect email
+	Correct response: libero.Morbi.accumsan@utipsum.superfake.com
+	Student response: libero.Morbi.accumsan@utipsum.superfake
+incorrect email
+	Correct response: vel@tinciduntadipiscing.superfake.com
+	Student response: vel@tinciduntadipiscing.superfake
+incorrect email
+	Correct response: arcu.Sed_72@lobortis.fake.com
+	Student response: arcu.Sed_72@lobortis.fake
+incorrect email
+	Correct response: libero.Proin@idenimCurabitur.superfake.com
+	Student response: libero.Proin@idenimCurabitur.superfake
+incorrect email
+	Correct response: et_48@disparturient.fake.com
+	Student response: et_48@disparturient.fake
+incorrect email
+	Correct response: placerat.eget@cubilia.superfake.com
+	Student response: placerat.eget@cubilia.superfake
+incorrect email
+	Correct response: sem.vitae.aliquam@nonarcu.superfake.com
+	Student response: sem.vitae.aliquam@nonarcu.superfake
+incorrect email
+	Correct response: enim.mi.tempor@adipiscingelit.superfake.com
+	Student response: enim.mi.tempor@adipiscingelit.superfake
+incorrect email
+	Correct response: Maecenas@faucibusMorbi.superfake.com
+	Student response: Maecenas@faucibusMorbi.superfake
+incorrect email
+	Correct response: eget.ipsum@eratSed.superfake.com
+	Student response: eget.ipsum@eratSed.superfake
+incorrect email
+	Correct response: cursus@dictum.fake.com
+	Student response: cursus@dictum.fake
+incorrect email
+	Correct response: auctor.velit_09@Nullamfeugiatplacerat.superfake.com
+	Student response: auctor.velit_09@Nullamfeugiatplacerat.superfake
+incorrect email
+	Correct response: enim.diam.vel@anteNuncmauris.superfake.com
+	Student response: enim.diam.vel@anteNuncmauris.superfake
+incorrect email
+	Correct response: dolor@nonfeugiat.superfake.com
+	Student response: dolor@nonfeugiat.superfake
+incorrect email
+	Correct response: turpis70@facilisismagnatellus.superfake.com
+	Student response: turpis70@facilisismagnatellus.superfake
+incorrect email
+	Correct response: Suspendisse.aliquet.molestie@semmolestiesodales.superfake.com
+	Student response: Suspendisse.aliquet.molestie@semmolestiesodales.superfake
+incorrect email
+	Correct response: egestas@Fuscemollis.superfake.com
+	Student response: egestas@Fuscemollis.superfake
+incorrect email
+	Correct response: ac.metus@sedfacilisis.superfake.com
+	Student response: ac.metus@sedfacilisis.superfake
+incorrect email
+	Correct response: consequat.purus.Maecenas@mauriseu.superfake.com
+	Student response: consequat.purus.Maecenas@mauriseu.superfake
+incorrect email
+	Correct response: Nulla.dignissim.Maecenas@dapibusid.fake.com
+	Student response: Nulla.dignissim.Maecenas@dapibusid.fake
+incorrect email
+	Correct response: et71@feugiattellus.fake.com
+	Student response: et71@feugiattellus.fake
+incorrect email
+	Correct response: Nullam.feugiat.placerat@ultricesDuis.fake.com
+	Student response: Nullam.feugiat.placerat@ultricesDuis.fake
+incorrect email
+	Correct response: libero.Integer90_24@purus.fake.com
+	Student response: libero.Integer90_24@purus.fake
+incorrect email
+	Correct response: metus97@commodo.fake.com
+	Student response: metus97@commodo.fake
+incorrect email
+	Correct response: diam.luctus@Curabitur.fake.com
+	Student response: diam.luctus@Curabitur.fake
+incorrect email
+	Correct response: mus@nisi.superfake.com
+	Student response: mus@nisi.superfake
+incorrect email
+	Correct response: amet.luctus.vulputate@ligulatortor.fake.com
+	Student response: amet.luctus.vulputate@ligulatortor.fake
+incorrect email
+	Correct response: pellentesque@lacusvarius.superfake.com
+	Student response: pellentesque@lacusvarius.superfake
+incorrect email
+	Correct response: nibh.Quisque.nonummy@purus.superfake.com
+	Student response: nibh.Quisque.nonummy@purus.superfake
+incorrect email
+	Correct response: metus@feugiattelluslorem.fake.com
+	Student response: metus@feugiattelluslorem.fake
+incorrect email
+	Correct response: Phasellus.ornare.Fusce@convallis.fake.com
+	Student response: Phasellus.ornare.Fusce@convallis.fake
+incorrect email
+	Correct response: Curabitur.dictum@lectusquis.superfake.com
+	Student response: Curabitur.dictum@lectusquis.superfake
+incorrect email
+	Correct response: Integer@purussapiengravida.superfake.com
+	Student response: Integer@purussapiengravida.superfake
+incorrect email
+	Correct response: dui.Cras.pellentesque_47@acarcuNunc.fake.com
+	Student response: dui.Cras.pellentesque_47@acarcuNunc.fake
+incorrect email
+	Correct response: mi.pede.nonummy73@cursusetmagna.fake.com
+	Student response: mi.pede.nonummy73@cursusetmagna.fake
+incorrect email
+	Correct response: Aenean.euismod.mauris@utnulla.superfake.com
+	Student response: Aenean.euismod.mauris@utnulla.superfake
+incorrect email
+	Correct response: laoreet@NulladignissimMaecenas.fake.com
+	Student response: laoreet@NulladignissimMaecenas.fake
+incorrect email
+	Correct response: Duis@Cras.fake.com
+	Student response: Duis@Cras.fake
+incorrect email
+	Correct response: urna.nec@nibh.superfake.com
+	Student response: urna.nec@nibh.superfake
+incorrect email
+	Correct response: Donec.consectetuer.mauris29@Vestibulumanteipsum.fake.com
+	Student response: Donec.consectetuer.mauris29@Vestibulumanteipsum.fake
+incorrect email
+	Correct response: convallis@rutrumurna.fake.com
+	Student response: convallis@rutrumurna.fake
+incorrect email
+	Correct response: dui.Cras.pellentesque@aliquet.superfake.com
+	Student response: dui.Cras.pellentesque@aliquet.superfake
+incorrect email
+	Correct response: Fusce.aliquam_84@malesuadafamesac.superfake.com
+	Student response: Fusce.aliquam_84@malesuadafamesac.superfake
+incorrect email
+	Correct response: et@erosProin.fake.com
+	Student response: et@erosProin.fake
+incorrect email
+	Correct response: pretium.et.rutrum@dui.superfake.com
+	Student response: pretium.et.rutrum@dui.superfake
+incorrect email
+	Correct response: metus.urna89@Donec.superfake.com
+	Student response: metus.urna89@Donec.superfake
+incorrect email
+	Correct response: volutpat.Nulla@nuncidenim.fake.com
+	Student response: volutpat.Nulla@nuncidenim.fake
+incorrect email
+	Correct response: vitae.velit.egestas@egestas.superfake.com
+	Student response: vitae.velit.egestas@egestas.superfake
+incorrect email
+	Correct response: accumsan.interdum@MaurisnullaInteger.fake.com
+	Student response: accumsan.interdum@MaurisnullaInteger.fake
+incorrect email
+	Correct response: sem.magna.nec_78@Quisque.fake.com
+	Student response: sem.magna.nec_78@Quisque.fake
+incorrect email
+	Correct response: sem.consequat56@egetmetus.superfake.com
+	Student response: sem.consequat56@egetmetus.superfake
+incorrect email
+	Correct response: arcu53@velpede.superfake.com
+	Student response: arcu53@velpede.superfake
+incorrect email
+	Correct response: libero.lacus@Sednullaante.fake.com
+	Student response: libero.lacus@Sednullaante.fake
+incorrect email
+	Correct response: sem.ut.cursus@malesuadafames.superfake.com
+	Student response: sem.ut.cursus@malesuadafames.superfake
+incorrect email
+	Correct response: sed80@dictumcursusNunc.superfake.com
+	Student response: sed80@dictumcursusNunc.superfake
+incorrect email
+	Correct response: mauris.ut_42@penatibusetmagnis.fake.com
+	Student response: mauris.ut_42@penatibusetmagnis.fake
+incorrect email
+	Correct response: netus.et_34@diam.superfake.com
+	Student response: netus.et_34@diam.superfake
+incorrect email
+	Correct response: ridiculus.mus_96@molestietortornibh.fake.com
+	Student response: ridiculus.mus_96@molestietortornibh.fake
+incorrect email
+	Correct response: magna.Phasellus@Proin.superfake.com
+	Student response: magna.Phasellus@Proin.superfake
+incorrect email
+	Correct response: hendrerit.a@augueporttitorinterdum.superfake.com
+	Student response: hendrerit.a@augueporttitorinterdum.superfake
+incorrect email
+	Correct response: semper.tellus.id@Namconsequat.superfake.com
+	Student response: semper.tellus.id@Namconsequat.superfake
+incorrect email
+	Correct response: Ut.semper.pretium37@velest.fake.com
+	Student response: Ut.semper.pretium37@velest.fake
+incorrect email
+	Correct response: Praesent.luctus.Curabitur@quistristiqueac.superfake.com
+	Student response: Praesent.luctus.Curabitur@quistristiqueac.superfake
+incorrect email
+	Correct response: magna.nec@nonbibendumsed.fake.com
+	Student response: magna.nec@nonbibendumsed.fake
+incorrect email
+	Correct response: vel@In.superfake.com
+	Student response: vel@In.superfake
+incorrect email
+	Correct response: massa@nascetur.superfake.com
+	Student response: massa@nascetur.superfake
+incorrect email
+	Correct response: vel@quispede.superfake.com
+	Student response: vel@quispede.superfake
+incorrect email
+	Correct response: vestibulum@ultricesposuere.fake.com
+	Student response: vestibulum@ultricesposuere.fake
+incorrect email
+	Correct response: magna.Phasellus@augueporttitorinterdum.superfake.com
+	Student response: magna.Phasellus@augueporttitorinterdum.superfake
+incorrect email
+	Correct response: leo.elementum.sem@fermentum.superfake.com
+	Student response: leo.elementum.sem@fermentum.superfake
+incorrect email
+	Correct response: sem@estNuncullamcorper.superfake.com
+	Student response: sem@estNuncullamcorper.superfake
+incorrect email
+	Correct response: posuere.enim.nisl@velturpisAliquam.fake.com
+	Student response: posuere.enim.nisl@velturpisAliquam.fake
+incorrect email
+	Correct response: In.nec@interdumligula.superfake.com
+	Student response: In.nec@interdumligula.superfake
+incorrect email
+	Correct response: hymenaeos.Mauris@aliquet.superfake.com
+	Student response: hymenaeos.Mauris@aliquet.superfake
+incorrect email
+	Correct response: et.ipsum.cursus@Sedpharetra.superfake.com
+	Student response: et.ipsum.cursus@Sedpharetra.superfake
+incorrect email
+	Correct response: non@justoPraesentluctus.superfake.com
+	Student response: non@justoPraesentluctus.superfake
+incorrect email
+	Correct response: Phasellus@tellussem.fake.com
+	Student response: Phasellus@tellussem.fake
+incorrect email
+	Correct response: scelerisque.mollis92_63@auguemalesuadamalesuada.superfake.com
+	Student response: scelerisque.mollis92_63@auguemalesuadamalesuada.superfake
+incorrect email
+	Correct response: ligula.eu.enim@Proin.superfake.com
+	Student response: ligula.eu.enim@Proin.superfake
+incorrect email
+	Correct response: arcu@sempereratin.fake.com
+	Student response: arcu@sempereratin.fake
+incorrect email
+	Correct response: convallis@auctor.superfake.com
+	Student response: convallis@auctor.superfake
+incorrect email
+	Correct response: sed.est_83@sed.fake.com
+	Student response: sed.est_83@sed.fake
+incorrect email
+	Correct response: auctor.nunc.nulla@dolornonummy.fake.com
+	Student response: auctor.nunc.nulla@dolornonummy.fake
+incorrect email
+	Correct response: ac@tellusnonmagna.superfake.com
+	Student response: ac@tellusnonmagna.superfake
+incorrect email
+	Correct response: pharetra.ut.pharetra@laoreetlectus.superfake.com
+	Student response: pharetra.ut.pharetra@laoreetlectus.superfake
+incorrect email
+	Correct response: convallis.ante@ametorciUt.fake.com
+	Student response: convallis.ante@ametorciUt.fake
+incorrect email
+	Correct response: porttitor.scelerisque.neque@mattisCras.superfake.com
+	Student response: porttitor.scelerisque.neque@mattisCras.superfake
+incorrect email
+	Correct response: amet@gravidamaurisut.superfake.com
+	Student response: amet@gravidamaurisut.superfake
+incorrect email
+	Correct response: sem.magna.nec@atvelitCras.superfake.com
+	Student response: sem.magna.nec@atvelitCras.superfake
+incorrect email
+	Correct response: Cras_62@rutrum.superfake.com
+	Student response: Cras_62@rutrum.superfake
+incorrect email
+	Correct response: Cras.lorem.lorem@penatibus.fake.com
+	Student response: Cras.lorem.lorem@penatibus.fake
+incorrect email
+	Correct response: dapibus.gravida@viverraDonectempus.fake.com
+	Student response: dapibus.gravida@viverraDonectempus.fake
+incorrect email
+	Correct response: Morbi.accumsan.laoreet@eunulla.fake.com
+	Student response: Morbi.accumsan.laoreet@eunulla.fake
+incorrect email
+	Correct response: Morbi.sit.amet@laciniavitaesodales.fake.com
+	Student response: Morbi.sit.amet@laciniavitaesodales.fake
+incorrect email
+	Correct response: magna.Nam@quis.superfake.com
+	Student response: magna.Nam@quis.superfake
+incorrect email
+	Correct response: ad.litora.torquent@lectus.fake.com
+	Student response: ad.litora.torquent@lectus.fake
+incorrect email
+	Correct response: arcu.Vestibulum@quamdignissim.superfake.com
+	Student response: arcu.Vestibulum@quamdignissim.superfake
+incorrect email
+	Correct response: ligula.eu@dolor.superfake.com
+	Student response: ligula.eu@dolor.superfake
+incorrect email
+	Correct response: ligula@hendreritnequeIn.fake.com
+	Student response: ligula@hendreritnequeIn.fake
+incorrect email
+	Correct response: in.felis@loremeumetus.superfake.com
+	Student response: in.felis@loremeumetus.superfake
+incorrect email
+	Correct response: Aenean.massa.Integer@MaurisnullaInteger.fake.com
+	Student response: Aenean.massa.Integer@MaurisnullaInteger.fake
+incorrect email
+	Correct response: ipsum_07@libero.fake.com
+	Student response: ipsum_07@libero.fake
+incorrect email
+	Correct response: quam_69@Donecest.superfake.com
+	Student response: quam_69@Donecest.superfake
+incorrect email
+	Correct response: interdum@magna.superfake.com
+	Student response: interdum@magna.superfake
+incorrect email
+	Correct response: sem.ut@ante.superfake.com
+	Student response: sem.ut@ante.superfake
+incorrect email
+	Correct response: ultricies.dignissim.lacus@urnaVivamus.superfake.com
+	Student response: ultricies.dignissim.lacus@urnaVivamus.superfake
+incorrect email
+	Correct response: Aliquam.vulputate.ullamcorper_67@accumsan.superfake.com
+	Student response: Aliquam.vulputate.ullamcorper_67@accumsan.superfake
+incorrect email
+	Correct response: pede.Praesent@nibhdolor.fake.com
+	Student response: pede.Praesent@nibhdolor.fake
+incorrect email
+	Correct response: eu32@luctusaliquet.fake.com
+	Student response: eu32@luctusaliquet.fake
+incorrect email
+	Correct response: vitae.risus_77@parturientmontesnascetur.superfake.com
+	Student response: vitae.risus_77@parturientmontesnascetur.superfake
+incorrect email
+	Correct response: egestas.a@accumsan.superfake.com
+	Student response: egestas.a@accumsan.superfake
+incorrect email
+	Correct response: nisl.sem@nibhQuisque.superfake.com
+	Student response: nisl.sem@nibhQuisque.superfake
+incorrect email
+	Correct response: Donec00@viverraMaecenas.superfake.com
+	Student response: Donec00@viverraMaecenas.superfake
+incorrect email
+	Correct response: vel.arcu@enim.superfake.com
+	Student response: vel.arcu@enim.superfake
+incorrect email
+	Correct response: ultrices@eutelluseu.superfake.com
+	Student response: ultrices@eutelluseu.superfake
+incorrect email
+	Correct response: Nulla.facilisis@Nunclaoreetlectus.superfake.com
+	Student response: Nulla.facilisis@Nunclaoreetlectus.superfake
+incorrect email
+	Correct response: amet.nulla.Donec@mi.superfake.com
+	Student response: amet.nulla.Donec@mi.superfake
+incorrect email
+	Correct response: Phasellus@nisl.superfake.com
+	Student response: Phasellus@nisl.superfake
+incorrect email
+	Correct response: in.faucibus@lectuspedeultrices.fake.com
+	Student response: in.faucibus@lectuspedeultrices.fake
+incorrect email
+	Correct response: cursus@Nullamfeugiat.superfake.com
+	Student response: cursus@Nullamfeugiat.superfake
+incorrect email
+	Correct response: adipiscing@fringillapurus.superfake.com
+	Student response: adipiscing@fringillapurus.superfake
+incorrect email
+	Correct response: non@eratvelpede.superfake.com
+	Student response: non@eratvelpede.superfake
+incorrect email
+	Correct response: Mauris.molestie_19@diam.fake.com
+	Student response: Mauris.molestie_19@diam.fake
+incorrect email
+	Correct response: augue.ac.ipsum@pede.superfake.com
+	Student response: augue.ac.ipsum@pede.superfake
+incorrect email
+	Correct response: Aliquam.auctor01@dolorsit.fake.com
+	Student response: Aliquam.auctor01@dolorsit.fake
+incorrect email
+	Correct response: erat@arcuSed.fake.com
+	Student response: erat@arcuSed.fake
+incorrect email
+	Correct response: cursus.a.enim@eu.fake.com
+	Student response: cursus.a.enim@eu.fake
+incorrect email
+	Correct response: Phasellus@convallis.superfake.com
+	Student response: Phasellus@convallis.superfake
+incorrect email
+	Correct response: at_07@leo.fake.com
+	Student response: at_07@leo.fake
+incorrect email
+	Correct response: at.nisi@dolor.fake.com
+	Student response: at.nisi@dolor.fake
+incorrect email
+	Correct response: parturient.montes.nascetur_38@Maurisnulla.superfake.com
+	Student response: parturient.montes.nascetur_38@Maurisnulla.superfake
+incorrect email
+	Correct response: Phasellus.dapibus.quam@dapibusquam.fake.com
+	Student response: Phasellus.dapibus.quam@dapibusquam.fake
+incorrect email
+	Correct response: ultricies.adipiscing.enim@nibhPhasellusnulla.fake.com
+	Student response: ultricies.adipiscing.enim@nibhPhasellusnulla.fake
+incorrect email
+	Correct response: torquent@Donecconsectetuermauris.superfake.com
+	Student response: torquent@Donecconsectetuermauris.superfake
+incorrect email
+	Correct response: quam.quis61@ornaretortor.fake.com
+	Student response: quam.quis61@ornaretortor.fake
+incorrect email
+	Correct response: in_24@eget.superfake.com
+	Student response: in_24@eget.superfake
+incorrect email
+	Correct response: et.ultrices@laoreet.fake.com
+	Student response: et.ultrices@laoreet.fake
+incorrect email
+	Correct response: sagittis63@ante.superfake.com
+	Student response: sagittis63@ante.superfake
+incorrect email
+	Correct response: sodales.purus@lacusQuisque.superfake.com
+	Student response: sodales.purus@lacusQuisque.superfake
+incorrect email
+	Correct response: fringilla.est.Mauris@variusNamporttitor.superfake.com
+	Student response: fringilla.est.Mauris@variusNamporttitor.superfake
+incorrect email
+	Correct response: ut@eratnonummy.fake.com
+	Student response: ut@eratnonummy.fake
+incorrect email
+	Correct response: risus.In.mi@orci.fake.com
+	Student response: risus.In.mi@orci.fake
+incorrect email
+	Correct response: aptent.taciti@Curabituregestasnunc.fake.com
+	Student response: aptent.taciti@Curabituregestasnunc.fake
+incorrect email
+	Correct response: tellus.imperdiet@augueut.superfake.com
+	Student response: tellus.imperdiet@augueut.superfake
+incorrect email
+	Correct response: Donec.tincidunt.Donec@Fuscedolorquam.superfake.com
+	Student response: Donec.tincidunt.Donec@Fuscedolorquam.superfake
+incorrect email
+	Correct response: dis_15@tempus.fake.com
+	Student response: dis_15@tempus.fake
+incorrect email
+	Correct response: blandit@est.fake.com
+	Student response: blandit@est.fake
+incorrect email
+	Correct response: nulla.ante.iaculis@semNullainterdum.fake.com
+	Student response: nulla.ante.iaculis@semNullainterdum.fake
+incorrect email
+	Correct response: sollicitudin.a.malesuada@congueInscelerisque.superfake.com
+	Student response: sollicitudin.a.malesuada@congueInscelerisque.superfake
+incorrect email
+	Correct response: at.arcu.Vestibulum@enim.fake.com
+	Student response: at.arcu.Vestibulum@enim.fake
+incorrect email
+	Correct response: tempor.diam.dictum@Curabitursedtortor.superfake.com
+	Student response: tempor.diam.dictum@Curabitursedtortor.superfake
+incorrect email
+	Correct response: ipsum.sodales.purus@Namtempordiam.fake.com
+	Student response: ipsum.sodales.purus@Namtempordiam.fake
+incorrect email
+	Correct response: ipsum.dolor@miacmattis.superfake.com
+	Student response: ipsum.dolor@miacmattis.superfake
+incorrect email
+	Correct response: massa@sagittis.fake.com
+	Student response: massa@sagittis.fake
+incorrect email
+	Correct response: vulputate.risus.a@eu.superfake.com
+	Student response: vulputate.risus.a@eu.superfake
+incorrect email
+	Correct response: parturient@FuscemollisDuis.superfake.com
+	Student response: parturient@FuscemollisDuis.superfake
+incorrect email
+	Correct response: est.arcu.ac@gravidasit.superfake.com
+	Student response: est.arcu.ac@gravidasit.superfake
+incorrect email
+	Correct response: ullamcorper.nisl@congue.fake.com
+	Student response: ullamcorper.nisl@congue.fake
+incorrect email
+	Correct response: pede.Nunc.sed@malesuada.fake.com
+	Student response: pede.Nunc.sed@malesuada.fake
+incorrect email
+	Correct response: mus.Aenean@interdumCurabitur.superfake.com
+	Student response: mus.Aenean@interdumCurabitur.superfake
+incorrect email
+	Correct response: libero.at.auctor01@sapiengravidanon.fake.com
+	Student response: libero.at.auctor01@sapiengravidanon.fake
+incorrect email
+	Correct response: libero.est.congue35@eu.fake.com
+	Student response: libero.est.congue35@eu.fake
+incorrect email
+	Correct response: suscipit@eget.fake.com
+	Student response: suscipit@eget.fake
+incorrect email
+	Correct response: in.faucibus.orci@ornareplacerat.superfake.com
+	Student response: in.faucibus.orci@ornareplacerat.superfake
+incorrect email
+	Correct response: aptent@ultricies.superfake.com
+	Student response: aptent@ultricies.superfake
+incorrect email
+	Correct response: eros@Vivamus.fake.com
+	Student response: eros@Vivamus.fake
+incorrect email
+	Correct response: Phasellus@sem.fake.com
+	Student response: Phasellus@sem.fake
+incorrect email
+	Correct response: Fusce@non.superfake.com
+	Student response: Fusce@non.superfake
+incorrect email
+	Correct response: rutrum.eu.ultrices@augue.superfake.com
+	Student response: rutrum.eu.ultrices@augue.superfake
+incorrect email
+	Correct response: consequat.nec.mollis@nullaat.superfake.com
+	Student response: consequat.nec.mollis@nullaat.superfake
+incorrect email
+	Correct response: commodo.ipsum@porttitor.superfake.com
+	Student response: commodo.ipsum@porttitor.superfake
+incorrect email
+	Correct response: ac@et.fake.com
+	Student response: ac@et.fake
+incorrect email
+	Correct response: amet.massa.Quisque_11@laoreet.fake.com
+	Student response: amet.massa.Quisque_11@laoreet.fake
+incorrect email
+	Correct response: Nulla.dignissim@massa.superfake.com
+	Student response: Nulla.dignissim@massa.superfake
+incorrect email
+	Correct response: ipsum.Suspendisse@sitametlorem.fake.com
+	Student response: ipsum.Suspendisse@sitametlorem.fake
+incorrect email
+	Correct response: vel@gravidamolestie.superfake.com
+	Student response: vel@gravidamolestie.superfake
+incorrect email
+	Correct response: erat@luctus.fake.com
+	Student response: erat@luctus.fake
+incorrect email
+	Correct response: vestibulum.massa.rutrum@intempus.fake.com
+	Student response: vestibulum.massa.rutrum@intempus.fake
+incorrect email
+	Correct response: ac.mattis.ornare98@Sedmalesuada.fake.com
+	Student response: ac.mattis.ornare98@Sedmalesuada.fake
+incorrect email
+	Correct response: hymenaeos.Mauris.ut@purusaccumsan.superfake.com
+	Student response: hymenaeos.Mauris.ut@purusaccumsan.superfake
+incorrect email
+	Correct response: tempor@ametrisusDonec.fake.com
+	Student response: tempor@ametrisusDonec.fake
+incorrect email
+	Correct response: arcu.Vestibulum57@Fuscealiquamenim.fake.com
+	Student response: arcu.Vestibulum57@Fuscealiquamenim.fake
+incorrect email
+	Correct response: mi@quamelementum.superfake.com
+	Student response: mi@quamelementum.superfake
+incorrect email
+	Correct response: tincidunt.aliquam.arcu@veliteu.superfake.com
+	Student response: tincidunt.aliquam.arcu@veliteu.superfake
+incorrect email
+	Correct response: non80@Integerurna.superfake.com
+	Student response: non80@Integerurna.superfake
+incorrect email
+	Correct response: lobortis.nisi.nibh@orci.superfake.com
+	Student response: lobortis.nisi.nibh@orci.superfake
+incorrect email
+	Correct response: id@Cumsociis.superfake.com
+	Student response: id@Cumsociis.superfake
+incorrect email
+	Correct response: ornare.Fusce.mollis@malesuadaiderat.superfake.com
+	Student response: ornare.Fusce.mollis@malesuadaiderat.superfake
+incorrect email
+	Correct response: amet.orci.Ut@tristiquesenectuset.superfake.com
+	Student response: amet.orci.Ut@tristiquesenectuset.superfake
+incorrect email
+	Correct response: elit@molestie.superfake.com
+	Student response: elit@molestie.superfake
+incorrect email
+	Correct response: velit.Sed@diamluctus.superfake.com
+	Student response: velit.Sed@diamluctus.superfake
+incorrect email
+	Correct response: Cum@purus.superfake.com
+	Student response: Cum@purus.superfake
+incorrect email
+	Correct response: Integer.eu.lacus@fringilla.superfake.com
+	Student response: Integer.eu.lacus@fringilla.superfake
+incorrect email
+	Correct response: risus.Duis.a@Donec.fake.com
+	Student response: risus.Duis.a@Donec.fake
+incorrect email
+	Correct response: Aliquam.erat.volutpat@atauctorullamcorper.superfake.com
+	Student response: Aliquam.erat.volutpat@atauctorullamcorper.superfake
+incorrect email
+	Correct response: est.mollis@Pellentesquetincidunt.superfake.com
+	Student response: est.mollis@Pellentesquetincidunt.superfake
+incorrect email
+	Correct response: et.magnis87_29@sodalespurus.superfake.com
+	Student response: et.magnis87_29@sodalespurus.superfake
+incorrect email
+	Correct response: risus@habitant.fake.com
+	Student response: risus@habitant.fake
+incorrect email
+	Correct response: nisi.nibh.lacinia@lectus.fake.com
+	Student response: nisi.nibh.lacinia@lectus.fake
+incorrect email
+	Correct response: aliquet_01@enim.fake.com
+	Student response: aliquet_01@enim.fake
+incorrect email
+	Correct response: sem.vitae_71@tinciduntadipiscingMauris.fake.com
+	Student response: sem.vitae_71@tinciduntadipiscingMauris.fake
+incorrect email
+	Correct response: ante@orciin.fake.com
+	Student response: ante@orciin.fake
+Score += 18
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+
+Comments:
+	make sure to account for extra "stuff.morestuff.com" at the end of emails
+
+-------------------------------------------------------------------------------
+
+09/12/18 17:57
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

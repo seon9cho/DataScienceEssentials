@@ -1,0 +1,38 @@
+01/11/19 16:51
+
+Problem 1 (10 points):
+Score += 0
+
+Problem 2 (10 points):
+Score += 0
+
+Problem 3 (10 points):
+Score += 0
+
+Problem 4 (10 points):
+Score += 0
+
+Total score: 0/40 = 0.0%
+
+-------------------------------------------------------------------------------
+
+04/17/19 11:02
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

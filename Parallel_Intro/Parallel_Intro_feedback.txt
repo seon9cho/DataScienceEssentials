@@ -1,0 +1,40 @@
+12/02/18 19:41
+
+variables() (5 points):
+pull the variables as well
+Score += 2
+
+prob3() (5 points):
+Score += 5
+
+prob4() (10 points):
+Score += 10
+
+parallel_trapezoidal_rule() (10 points):
+Your trapezoid rule calcuation seems off. I tested it on x*sin(x) from 0 to 1, and the correct result is about .3011, and your code returns .297, which is too far off with this many points.
+Score += 7
+
+Total score: 24/30 = 80.0%
+
+-------------------------------------------------------------------------------
+
+12/11/18 14:06
+
+variables() (5 points):
+same as before
+Score += 2
+
+prob3() (5 points):
+Score += 5
+
+prob4() (10 points):
+Score += 10
+
+parallel_trapezoidal_rule() (10 points):
+same as before
+Score += 7
+
+Total score: 24/30 = 80.0%
+
+-------------------------------------------------------------------------------
+

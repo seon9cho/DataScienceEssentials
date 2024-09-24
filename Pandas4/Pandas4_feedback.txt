@@ -1,0 +1,56 @@
+10/29/18 09:54
+
+Problem 1 (5 points):
+Score += 0
+
+Problem 2 (5 points):
+Score += 0
+
+Problem 3 (5 points):
+Score += 0
+
+Problem 4 (5 points):
+Score += 0
+
+Problem 5 (5 points):
+Score += 0
+
+Problem 6 (10 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/40 = 0.0%
+
+-------------------------------------------------------------------------------
+
+12/09/18 15:01
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

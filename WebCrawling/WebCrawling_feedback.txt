@@ -1,0 +1,114 @@
+12/02/18 22:32
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+missing leaders:
+('2017-2018', 'LeBron James', 2251)
+('2016-2017', 'Russell Westbrook', 2558)
+('2015-2016', 'James Harden', 2376)
+('2014-2015', 'James Harden', 2217)
+('2013-2014', 'Kevin Durant', 2593)
+('2012-2013', 'Kevin Durant', 2280)
+('2011-2012', 'Kevin Durant', 1850)
+('2010-2011', 'Kevin Durant', 2161)
+('2009-2010', 'Kevin Durant', 2472)
+('2008-2009', 'Dwyane Wade', 2386)
+Score += 0
+
+Problem 4 (10 points):
+ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.14.0 x86_64)
+
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 30/50 = 60.0%
+
+-------------------------------------------------------------------------------
+
+12/02/18 23:39
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+missing leaders:
+('2017-2018', 'LeBron James', 2251)
+('2016-2017', 'Russell Westbrook', 2558)
+('2015-2016', 'James Harden', 2376)
+('2014-2015', 'James Harden', 2217)
+('2013-2014', 'Kevin Durant', 2593)
+('2012-2013', 'Kevin Durant', 2280)
+('2011-2012', 'Kevin Durant', 1850)
+('2010-2011', 'Kevin Durant', 2161)
+('2009-2010', 'Kevin Durant', 2472)
+('2008-2009', 'Dwyane Wade', 2386)
+Score += 0
+
+Problem 4 (10 points):
+ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.14.0 x86_64)
+
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 30/50 = 60.0%
+
+-------------------------------------------------------------------------------
+
+12/26/18 16:37
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+missing leaders:
+('2017-2018', 'LeBron James', 2251)
+('2016-2017', 'Russell Westbrook', 2558)
+('2015-2016', 'James Harden', 2376)
+('2014-2015', 'James Harden', 2217)
+('2013-2014', 'Kevin Durant', 2593)
+('2012-2013', 'Kevin Durant', 2280)
+('2011-2012', 'Kevin Durant', 1850)
+('2010-2011', 'Kevin Durant', 2161)
+('2009-2010', 'Kevin Durant', 2472)
+('2008-2009', 'Dwyane Wade', 2386)
+Score += 0
+
+Problem 4 (10 points):
+ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.14.1 x86_64)
+
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 30/50 = 60.0%
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,71 @@
+11/12/18 11:12
+
+File 'mongo_db.ipynb' not found!
+
+-------------------------------------------------------------------------------
+
+11/12/18 11:26
+
+Problem 1 (5 points):
+Score += 0
+
+Problem 2 (10 points):
+Score += 0
+
+Problem 3 (15 points):
+Score += 0
+
+Problem 4 (5 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/40 = 0.0%
+
+-------------------------------------------------------------------------------
+
+12/09/18 14:49
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 0
+
+Problem 3 (15 points):
+Score += 0
+
+Problem 4 (5 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 10/40 = 25.0%
+
+-------------------------------------------------------------------------------
+
+12/26/18 14:50
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

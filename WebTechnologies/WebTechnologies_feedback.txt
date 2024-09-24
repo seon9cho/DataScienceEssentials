@@ -1,0 +1,39 @@
+09/14/18 11:01
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+TypeError: Object of type 'TicTacToe' is not JSON serializable
+
+Problems 3 and 4 (20 points):
+Score += 0
+
+Code Quality (5 points):
+Code can be improved for tic_tac_toe_server()
+Score += 0
+
+Total score: 0/40 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/24/18 18:19
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problems 3 and 4 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
