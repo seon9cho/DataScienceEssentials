@@ -1,0 +1,165 @@
+11/16/17 21:08
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (5 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob5()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+11/27/17 17:15
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (5 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob1()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+11/29/17 15:42
+
+Problem 1 (5 points):
+Result set is missing the following:
+	'Gilbert Chapman'
+	'Mercedes Hall'
+	'Alfonso Phelps'
+Result set should not include the following:
+	('Gilbert Chapman',)
+	('Mercedes Hall',)
+	('Alfonso Phelps',)
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Result set is missing the following:
+	'Calculus'
+	'English'
+Result set should not include the following:
+	('Calculus',)
+	('English',)
+Score += 0
+
+Problem 4 (10 points):
+Result set is missing the following:
+	(None, 3)
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+
+Comments:
+	makes sure you are returning a list of strings and not a list of tuples for problems 1 and 3
+
+-------------------------------------------------------------------------------
+
+11/29/17 16:04
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Result set is missing the following:
+	(None, 3)
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/30/17 10:12
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Result set is missing the following:
+	(None, 3)
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
